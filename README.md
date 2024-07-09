@@ -3,3 +3,5 @@
 🤝 Open to Collaborate for open-source project.
 🔭 Currently working on MwdicoBot - a disease prediction chat bot and API integration
 📧  Connect Me: smrutikumbhalkar2003@gmail.com
+
+[View my GitHub profile](https://github.com/smrutikk)
